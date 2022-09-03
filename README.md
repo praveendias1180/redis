@@ -45,3 +45,12 @@ echo "Stored in Redis <br>";
 print_r($arList); 
 ```
 ![](php-redis.png)
+
+
+# Redis Persistance
+
+https://redis.io/docs/manual/persistence/
+
+## Snapshotting
+
+By default Redis saves snapshots of the dataset on disk, in a binary file called dump.rdb. You can configure Redis to have it save the dataset every N seconds if there are at least M changes in the dataset, or you can manually call the SAVE or BGSAVE commands.
