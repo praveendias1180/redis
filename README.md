@@ -7,3 +7,9 @@
 https://redis.io/
 
 ![](web.png)
+
+## Redis CLI
+
+![](INCR.png)
+
+All commands: https://redis.io/docs/manual/cli/
