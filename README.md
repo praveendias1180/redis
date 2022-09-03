@@ -1,4 +1,7 @@
+![](redis-logo.svg)
 # Redis
+
+## Remote Dictionary Server
 
 ![](redis.png)
 
@@ -7,6 +10,12 @@
 https://redis.io/
 
 ![](web.png)
+
+# Developer: Salvatore Sanfilippo
+
+https://github.com/antirez
+
+![](developer.png)
 
 ## Redis CLI
 
